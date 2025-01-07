@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "369197213412",
+    "firebase_url": "https://byremapp-default-rtdb.firebaseio.com",
+    "project_id": "byremapp",
+    "storage_bucket": "byremapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369197213412:android:38962b4e16d04bd2a6eef1",
+        "android_client_info": {
+          "package_name": "com.example.texttospeech"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfGkRZF-bUPWR8sgvBmXEANteHA6iTCTQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "369197213412-1daaici209efqe83vj7lq2992p68q0cr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369197213412:android:a8e7b2cd062928a6a6eef1",
+        "android_client_info": {
+          "package_name": "com.quizes.games"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfGkRZF-bUPWR8sgvBmXEANteHA6iTCTQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "369197213412-1daaici209efqe83vj7lq2992p68q0cr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
