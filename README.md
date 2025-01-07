@@ -19,7 +19,8 @@ Welcome to the **Flutter Text-to-Speech (TTS)** app! This project demonstrates a
 
 | Welcome Section                          | Main TTS Page                       |
 |------------------------------------------|-------------------------------------|
-![f14bdbba-d563-461a-806c-c02461b70901](https://github.com/user-attachments/assets/93d95dc5-10a1-4d0e-b56b-df8a4be32459)
+Resize Example Image:
+![Example](https://github.com/user-attachments/assets/93d95dc5-10a1-4d0e-b56b-df8a4be32459 | width=400)
 
 
 ---
@@ -113,8 +114,8 @@ flutter pub add provider flutter_tts firebase_core firebase_database
 ## 👨‍💻 Author  
 
 **Your Name**  
-- GitHub: [@yourusername](https://github.com/yourusername)  
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)  
+- GitHub: [@/aymendevflutter](https://github.com/aymendevflutter)  
+
 
 ---
 
